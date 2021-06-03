@@ -1,0 +1,6 @@
+*.meta
+*.apk
+*.DS_Store
+/Library
+/Temp
+.dropbox
